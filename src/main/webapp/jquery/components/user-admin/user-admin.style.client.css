@@ -1,0 +1,26 @@
+.wbdv-hidden{
+
+	display : none;
+}
+
+h1{
+	margin-top: 15px;
+	text-align: center;
+	text-indent: 50px;
+	font-size: 50px;
+	margin-bottom: 25px;
+}
+
+#wbdv-table-heading{
+
+
+	background-color: black;
+	color: white;
+
+}
+
+body{
+
+background-color: #ffffe6;
+
+}

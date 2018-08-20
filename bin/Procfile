@@ -1,0 +1,1 @@
+web java -Dserver.port=$PORT $JAVA_OPTS -jar target/webdev-summer1-2018-java-server-ssandiri-0.0.1-SNAPSHOT.jar
